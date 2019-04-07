@@ -45,20 +45,20 @@ int main(int argc, char *argv[])
 
 	// find x->point+
 	FindY(equationGreater, equationGreaterLen, point, &greaterResult);
-	printf("x->%lf+ = %lf\n", point, greaterResult);
+	printf("lim x->%lf+ = %lf\n", point, greaterResult);
 
 	// find x->point-
 	FindY(equationLess, equationLessLen, point, &lessResult);
-	printf("x->%lf- = %lf\n", point, lessResult);
+	printf("lim x->%lf- = %lf\n", point, lessResult);
 
 	// find x->point
 	if (lessResult == greaterResult)
 	{
-		printf("x->%lf = %lf\n", point, lessResult);
+		printf("lim x->%lf = %lf\n", point, lessResult);
 	}
 	else
 	{
-		printf("x->%lf = DNE\n", point);
+		printf("lim x->%lf = DNE\n", point);
 	}
 	
 	// find f(point)
