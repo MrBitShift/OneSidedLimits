@@ -1,0 +1,15 @@
+﻿  OneSidedLimits.c
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(29): warning C4047: 'function': 'size_t *' differs in levels of indirection from 'size_t **'
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(29): warning C4024: 'GetEquation': different types for formal and actual parameter 2
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(34): warning C4047: 'function': 'size_t *' differs in levels of indirection from 'size_t **'
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(34): warning C4024: 'GetEquation': different types for formal and actual parameter 2
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(39): warning C4047: 'function': 'size_t *' differs in levels of indirection from 'size_t **'
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(39): warning C4024: 'GetEquation': different types for formal and actual parameter 2
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(47): warning C4047: 'function': 'size_t' differs in levels of indirection from 'size_t *'
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(47): warning C4024: 'FindY': different types for formal and actual parameter 2
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(51): warning C4047: 'function': 'size_t' differs in levels of indirection from 'size_t *'
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(51): warning C4024: 'FindY': different types for formal and actual parameter 2
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(65): warning C4047: 'function': 'size_t' differs in levels of indirection from 'size_t *'
+c:\programming projects\onesidedlimits\onesidedlimits\onesidedlimits.c(65): warning C4024: 'FindY': different types for formal and actual parameter 2
+c:\programming projects\onesidedlimits\onesidedlimits\mathinput.h(47): warning C4716: 'PrintEquation': must return a value
+  OneSidedLimits.vcxproj -> C:\Programming Projects\OneSidedLimits\Debug\OneSidedLimits.exe
